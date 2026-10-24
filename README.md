@@ -7,7 +7,6 @@
 [![Made with HTML](https://img.shields.io/badge/HTML-single--file-e34f26?logo=html5&logoColor=white)](#tech-stack)
 [![Map: D3.js](https://img.shields.io/badge/map-D3.js%20%2B%20TopoJSON-f9a03c?logo=d3&logoColor=white)](#tech-stack)
 
-> **Draft README** — replace the `YOUR-USERNAME` placeholders (demo link, badges, clone URL) before publishing.
 >
 > Developed by **Episteme Indonesia** · © 2026 Episteme Indonesia · Licensed under the [Apache License 2.0](LICENSE).
 
